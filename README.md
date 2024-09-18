@@ -1,0 +1,1 @@
+This repository contains the analysis of socioeconomic factors such as age, dwelling type, and health status and their impact on COVID-19 death rates across England. The project applies various statistical methods, including correlation analysis, factor analysis, and multiple regression models, using real-world data from the UK Census.
